@@ -1,0 +1,23 @@
+form{
+    width: 300px;
+    padding: 20px;
+    background: linear-gradient(#bd09b7, #6b4cf5);
+    border-radius: 20px;
+    box-shadow: 3px 3px lime;
+    color: white;
+    margin: 0 auto;
+}
+
+input.entrada{
+    padding: 7px;
+    width: 100%;
+}
+
+select{
+    padding: 7px;
+    width: 100%;
+}
+
+.ingresar{
+    text-align: right;
+}
